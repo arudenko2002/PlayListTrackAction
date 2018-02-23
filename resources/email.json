@@ -1,0 +1,62 @@
+{
+  "firstname": "Pedro",
+  "artists": [
+    {
+      "artist_name": "Eminem",
+      "tracks": [
+        {
+          "playlists": [
+            {
+              "country": "USA",
+              "estimated_streams": "7016460",
+              "followers": "1351768",
+              "playlist_uri": "spotify:user:spotify:playlist:37i9dQZF1DWWwaxRea1LWS",
+              "action_type": "ADDED",
+              "owner_id": "spotify",
+              "streams": "3128376",
+              "name": "#ThrowbackThursday",
+              "position": "91"
+            }
+          ],
+          "track_uri": "spotify:track:3LySNPf6PRGhOVWJdZutow",
+          "product_title": "Crack A Bottle"
+        },
+        {
+          "playlists": [
+            {
+              "country": "USA",
+              "estimated_streams": "7016460",
+              "followers": "1351768",
+              "playlist_uri": "spotify:user:spotify:playlist:37i9dQZF1DWWwaxRea1LWS",
+              "action_type": "ADDED",
+              "owner_id": "spotify",
+              "streams": "3128376",
+              "name": "#ThrowbackThursday",
+              "position": "2"
+            }
+          ],
+          "track_uri": "spotify:track:15JINEqzVMv3SvJTAXAKED",
+          "product_title": "Love The Way You Lie"
+        },
+        {
+          "playlists": [
+            {
+              "country": "USA",
+              "estimated_streams": "7016460",
+              "followers": "1351768",
+              "playlist_uri": "spotify:user:spotify:playlist:37i9dQZF1DWWwaxRea1LWS",
+              "action_type": "ADDED",
+              "owner_id": "spotify",
+              "streams": "3128376",
+              "name": "#ThrowbackThursday",
+              "position": "38"
+            }
+          ],
+          "track_uri": "spotify:track:7Ie9W94M7OjPoZVV216Xus",
+          "product_title": "Not Afraid"
+        }
+      ]
+    }
+  ],
+  "email": "Pedro.Guzman@umusic.com"
+}
